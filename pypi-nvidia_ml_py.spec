@@ -7,7 +7,7 @@
 #
 Name     : pypi-nvidia_ml_py
 Version  : 12.555.43
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/ee/c6/2348fc1fb776ff41a34635fb1f18010a6d6fd7ba6e57184dabd9d98ba9cf/nvidia-ml-py-12.555.43.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ee/c6/2348fc1fb776ff41a34635fb1f18010a6d6fd7ba6e57184dabd9d98ba9cf/nvidia-ml-py-12.555.43.tar.gz
 Summary  : Python Bindings for the NVIDIA Management Library
